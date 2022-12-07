@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 155eccb9107fdc9419ed74786e4d4f75
+timeCreated: 1486562783
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: DIN 471 _= 9mm 6 x 0:1
+    100002: DIN 471 _= 9mm 6 x 0:2
+    100004: DIN 471 _= 9mm 6 x 0:3
+    100006: DIN 471 _= 9mm 6 x 0:4
+    100008: DIN 471 _= 9mm 6 x 0:5
+    100010: ISO 7045 H M4 x 5 - 4.8 - H:1
+    100012: ISO 7045 H M4 x 5 - 4.8 - H:2
+    100014: ISO 7045 H M4 x 5 - 4.8 - H:3
+    100016: ISO 7045 H M4 x 5 - 4.8 - H:4
+    100018: ISO 7045 H M4 x 5 - 4.8 - H:5
+    100020: ISO 7045 H M4 x 5 - 4.8 - H:6
+    100022: ISO 7045 H M4 x 5 - 4.8 - H:7
+    100024: ISO 7045 H M4 x 5 - 4.8 - H:8
+    100026: Manual Clamp
+    100028: Part1:1
+    100030: Part2:1
+    100032: Part3:1
+    100034: Part4:1
+    100036: Part4:2
+    100038: Part5AB:1
+    100040: Part5AB_MIR1:1
+    100042: Part6:1
+    100044: Part6:2
+    100046: Part6:3
+    100048: Part7:1
+    100050: Part9:1
+    100052: Part9:2
+    100054: //RootNode
+    100056: Solid1
+    100058: Solid1 1
+    100060: Solid1 10
+    100062: Solid1 11
+    100064: Solid1 12
+    100066: Solid1 13
+    100068: Solid1 14
+    100070: Solid1 15
+    100072: Solid1 16
+    100074: Solid1 17
+    100076: Solid1 18
+    100078: Solid1 19
+    100080: Solid1 2
+    100082: Solid1 20
+    100084: Solid1 21
+    100086: Solid1 22
+    100088: Solid1 23
+    100090: Solid1 24
+    100092: Solid1 25
+    100094: Solid1 3
+    100096: Solid1 4
+    100098: Solid1 5
+    100100: Solid1 6
+    100102: Solid1 7
+    100104: Solid1 8
+    100106: Solid1 9
+    400000: DIN 471 _= 9mm 6 x 0:1
+    400002: DIN 471 _= 9mm 6 x 0:2
+    400004: DIN 471 _= 9mm 6 x 0:3
+    400006: DIN 471 _= 9mm 6 x 0:4
+    400008: DIN 471 _= 9mm 6 x 0:5
+    400010: ISO 7045 H M4 x 5 - 4.8 - H:1
+    400012: ISO 7045 H M4 x 5 - 4.8 - H:2
+    400014: ISO 7045 H M4 x 5 - 4.8 - H:3
+    400016: ISO 7045 H M4 x 5 - 4.8 - H:4
+    400018: ISO 7045 H M4 x 5 - 4.8 - H:5
+    400020: ISO 7045 H M4 x 5 - 4.8 - H:6
+    400022: ISO 7045 H M4 x 5 - 4.8 - H:7
+    400024: ISO 7045 H M4 x 5 - 4.8 - H:8
+    400026: Manual Clamp
+    400028: Part1:1
+    400030: Part2:1
+    400032: Part3:1
+    400034: Part4:1
+    400036: Part4:2
+    400038: Part5AB:1
+    400040: Part5AB_MIR1:1
+    400042: Part6:1
+    400044: Part6:2
+    400046: Part6:3
+    400048: Part7:1
+    400050: Part9:1
+    400052: Part9:2
+    400054: //RootNode
+    400056: Solid1
+    400058: Solid1 1
+    400060: Solid1 10
+    400062: Solid1 11
+    400064: Solid1 12
+    400066: Solid1 13
+    400068: Solid1 14
+    400070: Solid1 15
+    400072: Solid1 16
+    400074: Solid1 17
+    400076: Solid1 18
+    400078: Solid1 19
+    400080: Solid1 2
+    400082: Solid1 20
+    400084: Solid1 21
+    400086: Solid1 22
+    400088: Solid1 23
+    400090: Solid1 24
+    400092: Solid1 25
+    400094: Solid1 3
+    400096: Solid1 4
+    400098: Solid1 5
+    400100: Solid1 6
+    400102: Solid1 7
+    400104: Solid1 8
+    400106: Solid1 9
+    2300000: Solid1
+    2300002: Solid1 1
+    2300004: Solid1 10
+    2300006: Solid1 11
+    2300008: Solid1 12
+    2300010: Solid1 13
+    2300012: Solid1 14
+    2300014: Solid1 15
+    2300016: Solid1 16
+    2300018: Solid1 17
+    2300020: Solid1 18
+    2300022: Solid1 19
+    2300024: Solid1 2
+    2300026: Solid1 20
+    2300028: Solid1 21
+    2300030: Solid1 22
+    2300032: Solid1 23
+    2300034: Solid1 24
+    2300036: Solid1 25
+    2300038: Solid1 3
+    2300040: Solid1 4
+    2300042: Solid1 5
+    2300044: Solid1 6
+    2300046: Solid1 7
+    2300048: Solid1 8
+    2300050: Solid1 9
+    3300000: Solid1
+    3300002: Solid1 1
+    3300004: Solid1 10
+    3300006: Solid1 11
+    3300008: Solid1 12
+    3300010: Solid1 13
+    3300012: Solid1 14
+    3300014: Solid1 15
+    3300016: Solid1 16
+    3300018: Solid1 17
+    3300020: Solid1 18
+    3300022: Solid1 19
+    3300024: Solid1 2
+    3300026: Solid1 20
+    3300028: Solid1 21
+    3300030: Solid1 22
+    3300032: Solid1 23
+    3300034: Solid1 24
+    3300036: Solid1 25
+    3300038: Solid1 3
+    3300040: Solid1 4
+    3300042: Solid1 5
+    3300044: Solid1 6
+    3300046: Solid1 7
+    3300048: Solid1 8
+    3300050: Solid1 9
+    4300000: Solid1
+    4300002: Solid1
+    4300004: Solid1
+    4300006: Solid1
+    4300008: Solid1
+    4300010: Solid1
+    4300012: Solid1
+    4300014: Solid1
+    4300016: Solid1
+    4300018: Solid1
+    4300020: Solid1
+    4300022: Solid1
+    4300024: Solid1
+    4300026: Solid1
+    4300028: Solid1
+    4300030: Solid1
+    4300032: Solid1
+    4300034: Solid1
+    4300036: Solid1
+    4300038: Solid1
+    4300040: Solid1
+    4300042: Solid1
+    4300044: Solid1
+    4300046: Solid1
+    4300048: Solid1
+    4300050: Solid1
+    6400000: Solid1
+    6400002: Solid1 1
+    6400004: Solid1 10
+    6400006: Solid1 11
+    6400008: Solid1 12
+    6400010: Solid1 13
+    6400012: Solid1 14
+    6400014: Solid1 15
+    6400016: Solid1 16
+    6400018: Solid1 17
+    6400020: Solid1 18
+    6400022: Solid1 19
+    6400024: Solid1 2
+    6400026: Solid1 20
+    6400028: Solid1 21
+    6400030: Solid1 22
+    6400032: Solid1 23
+    6400034: Solid1 24
+    6400036: Solid1 25
+    6400038: Solid1 3
+    6400040: Solid1 4
+    6400042: Solid1 5
+    6400044: Solid1 6
+    6400046: Solid1 7
+    6400048: Solid1 8
+    6400050: Solid1 9
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
