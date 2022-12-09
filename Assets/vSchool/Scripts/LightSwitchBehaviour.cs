@@ -24,6 +24,7 @@ public class LightSwitchBehaviour : MonoBehaviour
         {
             isLightOn = !isLightOn;
             animator.SetBool("isLightOn", isLightOn);
+            gameObject.GetComponent<AudioSource>().Play();
             foreach (GameObject light in Ligths)
             {
                 light.SetActive(!light.activeSelf);
